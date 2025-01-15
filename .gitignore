@@ -1,0 +1,8 @@
+# Ignore Brave Browser Cache
+AppData/Local/BraveSoftware/
+
+# General Cache and temporary files
+*.cache
+*.tmp
+*.log
+*.bak
